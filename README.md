@@ -1,4 +1,10 @@
 # inconspiquous
+
+> [!IMPORTANT]
+>
+> This repository is a mirror of [https://github.com/xdslproject/inconspiquous](https://github.com/xdslproject/inconspiquous).
+> There is no guarantee this up to date with upstream and issues/pull requests should not be submitted here.
+
 A testing ground for quantum computing compilation ideas in [xdsl](https://xdsl.dev)
 
 ## Installation
